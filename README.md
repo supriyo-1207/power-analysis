@@ -18,7 +18,7 @@ This project looks at how much electricity was used in different states of India
 
 ## How to Run This Project
 1. **Get the Files**:
-   - Clone this repo: `git clone https://github.com/yourusername/power-analysis.git`
+   - Clone this repo: `git clone https://github.com/supriyo-1207/power-analysis.git`
    - Or download it as a ZIP from GitHub.
 2. **Open in Google Colab**:
    - Go to [Google Colab](https://colab.research.google.com/).
